@@ -33,3 +33,6 @@ If you dont have this requirements you could use the link above to help with the
 ## Live link
 
 
+## Known Bugs
+
+* At the moment of cration there are no known bugs. If any contact me.

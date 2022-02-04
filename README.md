@@ -36,3 +36,9 @@ If you dont have this requirements you could use the link above to help with the
 ## Known Bugs
 
 * At the moment of cration there are no known bugs. If any contact me.
+
+## Technologies Used
+1. Python
+2. Cascading Style Sheet (CSS)
+3. Bootstrap
+4. markdown

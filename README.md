@@ -42,3 +42,8 @@ If you dont have this requirements you could use the link above to help with the
 2. Cascading Style Sheet (CSS)
 3. Bootstrap
 4. markdown
+
+## Support and contact details
+I am currently a sudent at the Moringa School, pursuing a Software in Development Course.
+Incase of any queries you can reach me at;
+

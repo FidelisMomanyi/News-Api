@@ -9,3 +9,9 @@ An application that helps users to list and preview news articles from various s
 ### Author
 **Fidelis Momanyi**
 **A student at Moringa School**
+
+## Setup/Installation Requirements
+
+* Clone the repository from Github
+git clone git ```https://github.com/FidelisMomanyi/News-Api.git```
+* Open the project with your perfect Intergrated Development Environment (IDE)

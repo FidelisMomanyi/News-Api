@@ -23,3 +23,10 @@ git clone git ```https://github.com/FidelisMomanyi/News-Api.git```
 - A user, can see the image, description and the time a news article was created.
 - A user can click on an article and read the full article on the source website.
 
+# Prerequisites
+
+To work with News-Api you need to have some few preresuisites.
+- Terminal
+- Python
+If you dont have this requirements you could use the link above to help with the installation guide.
+

@@ -15,3 +15,11 @@ An application that helps users to list and preview news articles from various s
 * Clone the repository from Github
 git clone git ```https://github.com/FidelisMomanyi/News-Api.git```
 * Open the project with your perfect Intergrated Development Environment (IDE)
+
+## User Story
+
+- A user can see various news sources on the homepage of the application.
+- A user, can select a news source and see all news articles from the selected news source in the application.
+- A user, can see the image, description and the time a news article was created.
+- A user can click on an article and read the full article on the source website.
+

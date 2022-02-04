@@ -47,3 +47,13 @@ If you dont have this requirements you could use the link above to help with the
 I am currently a sudent at the Moringa School, pursuing a Software in Development Course.
 Incase of any queries you can reach me at;
 
+## Slack: 
+```
+Fidelis Morike Momanyi
+```
+## Email:
+```
+fidelismomanyi001@gmail.com
+```
+## -github-username:
+* github-username: FidelisMomanyi

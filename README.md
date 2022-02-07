@@ -59,4 +59,4 @@ fidelismomanyi001@gmail.com
 * github-username: FidelisMomanyi
 
 ### Copyright and License
-This software is under the [MIT](License) license. Copyright (c) 2021 **Fidelis Momanyi**
+This software is under the [MIT](License) license. Copyright (c) 2022 **Fidelis Momanyi**

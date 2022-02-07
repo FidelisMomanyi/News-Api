@@ -1,0 +1,2 @@
+export SOURCE_API_KEY='52204be290bb47fb83b80b3ac97d4421'
+python manage.py server

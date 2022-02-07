@@ -1,0 +1,31 @@
+{% extends 'base.html'%}
+<!-- Content block -->
+{% block content %}
+<div class="container">
+    {%for source in article %}
+
+    <div class="row" id="colo" style="background-color:#f8d5d5d2;">
+
+        <div class="col-sm-4">
+            <div class="card" style=" padding: 20px;">
+                <div class="card-body">
+                    <img src="{{source.Image}}" alt="img" width="400px">
+
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 g-5">
+            <div class="card">
+                <div class="card-body" style="padding-left: 90px;">
+
+                    <h3>{{ source.title }}.....</h3>
+
+                    <p class="name"> {{ source.name }}</p>
+                    <p class="title"> {{ source.description }} </p>
+                    <p> {{source.publishedAt}}</p>
+                    <a href="{{source.url}}" class="btn btn-success">Read The Full Story</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor%} {% endblock %}
